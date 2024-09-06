@@ -37,7 +37,7 @@ const Contact = () => {
           form_name: form.name,
           to_name: "Liron",
           from_email: form.email,
-          to_email: "janislee1204@mail.com",
+          to_email: "cryptoball0602.com",
           message: form.message,
         },
         "Jqq9AvwIuSjoMiA5c"
@@ -74,9 +74,9 @@ const Contact = () => {
         <h3 className={styles.sectionHeadText}>Contact.</h3>
 
         <div style={{ display: "flex", alignItems: "center", marginTop: 10 }}>
-          <a href="mailto:yoshiro.ito.0630@gmail.com" target="_blank"></a>
+          <a href="mailto:cryptoball0602.com" target="_blank"></a>
           <img src={google} height={30} width={30} />{" "}
-          <div style={{ marginLeft: "10px" }}>yoshiro.ito.0630@gmail.com</div>
+          <div style={{ marginLeft: "10px" }}>cryptoball0602@gmail.com</div>
         </div>
         <div
           style={{
@@ -86,10 +86,10 @@ const Contact = () => {
             marginTop: 10,
           }}
         >
-          <a href="https://github.com/venuswhispers" target="_blank">
+          <a href="https://github.com/CryptoBall0602" target="_blank">
             <img src={github} height={30} width={30} />
           </a>{" "}
-          https://github.com/venuswhispers
+          https://github.com/CryptoBall0602
         </div>
         <div
           style={{
